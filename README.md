@@ -8,6 +8,6 @@
     - Array, Comparator(https://ifuwanna.tistory.com/232)
     - String.join - 배열 합칠 때 사용한다.
   - H-index, https://programmers.co.kr/learn/courses/30/lessons/42747
-    - H-index는 catations의 원소가 아닐 수 있다. (질문목록에서 얻은 힌트)
-    - H-index는 최대 catations.length 이다.
-    - 어짜피 수는 정렬 시키므로, H-index가 될 수 있는 가장 큰 수와, catations의 가장 첫번째 원소를 비교하여 H-index를 알아냈다.
+    - H-index는 citations의 원소가 아닐 수 있다. (질문목록에서 얻은 힌트)
+    - H-index는 최대 citations.length 이다.
+    - 어짜피 수는 정렬 시키므로, H-index가 될 수 있는 가장 큰 수와, citations의 가장 첫번째 원소를 비교하여 H-index를 알아냈다.
