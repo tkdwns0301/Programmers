@@ -29,3 +29,4 @@
   - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=java)
     - Hash
     - [Map<K,V>.getOrDefault](https://jiwontip.tistory.com/21)
+    - (A에서 하나를 고를 때 * B에서 하나를 고를 때 * ...) - 모두 안골랐을때의 경우
