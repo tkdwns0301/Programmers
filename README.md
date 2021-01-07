@@ -26,3 +26,5 @@
   - [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577?language=java)
     - Hash
     - easy~
+  - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=java)
+    - [Map<K,V>.getOrDefault](https://jiwontip.tistory.com/21)
