@@ -30,3 +30,11 @@
     - Hash
     - [Map<K,V>.getOrDefault](https://jiwontip.tistory.com/21)
     - (A에서 하나를 고를 때 * B에서 하나를 고를 때 * ...) - 모두 안골랐을때의 경우
+
+2021.01.11
+  - [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
+    - Hash
+    - 너무 어렵다...33%밖에 못맞췄다 테스트케이스를 안주니까 어디서 틀린지 모르겠네...
+    - [Sort](https://coding-factory.tistory.com/549)
+    - [Map을 정렬하는 방법](https://codechacha.com/ko/java-sort-map/)
+    - [Map.Entry<K, V>](http://cris.joongbu.ac.kr/course/java/api/java/util/Map.Entry.html)
