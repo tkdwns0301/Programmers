@@ -21,26 +21,22 @@ class Solution {
 		int cnt = 0;
 
 		for (Map.Entry<String, Integer> entrySumPlay : sumPlay.entrySet()) {
-			if (cnt < 2) {
-				Vector<Integer> temp = new Vector<Integer>();
-				for (Map.Entry<Integer, Integer> entryPlay : play.entrySet()) {
-					
-					if (entrySumPlay.getKey().equals(genre.get(entryPlay.getKey()))) {
-						temp.add(entryPlay.getKey());
-					}
-				}
+			Vector<Integer> temp = new Vector<Integer>();
+			for (Map.Entry<Integer, Integer> entryPlay : play.entrySet()) {
 				
-				for(int i=0; i<temp.size(); i++) {
-					if(i > 1)
-						break;
-					answer2.add(temp.get(i));
+				if (entrySumPlay.getKey().equals(genre.get(entryPlay.getKey()))) {
+					temp.add(entryPlay.getKey());
 				}
-
-				cnt++;
 			}
-			else 
-				break;
-		}
+			
+			for(int i=0; i<temp.size(); i++) {
+				if(i > 1)
+					break;
+				answer2.add(temp.get(i));
+			}
+
+			cnt++;
+	}
 
 		int[] answer = new int[answer2.size()];
 		
