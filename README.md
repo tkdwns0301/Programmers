@@ -40,3 +40,8 @@
     - [Map.Entry<K, V>](http://cris.joongbu.ac.kr/course/java/api/java/util/Map.Entry.html)
     - 일단 장르와 플레이를 HashMap안에 넣어주고, 합한 결과가 필요하므로 sumPlay(Map)에 넣어줬다. 그리고 이들을 정렬시켜 준 뒤 비교를 통해 answer에 넣어줬다.
     - 코드가 더럽지만 일단 푼거에 만족~
+    
+2021.01.12
+  - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=java)
+    - 완전탐색
+    - 더럽게 풀어서 이렇게 하는게 맞나 싶었는데 다른사람 코드 보니까 거의 비슷한 알고리즘을 가진다!
