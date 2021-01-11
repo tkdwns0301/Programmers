@@ -34,8 +34,9 @@
 2021.01.11
   - [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
     - Hash
-    - 너무 어렵다...33%밖에 못맞췄다 테스트케이스를 안주니까 어디서 틀린지 모르겠네...
+    - 너무 어렵다...
     - [Sort](https://coding-factory.tistory.com/549)
     - [Map을 정렬하는 방법](https://codechacha.com/ko/java-sort-map/)
     - [Map.Entry<K, V>](http://cris.joongbu.ac.kr/course/java/api/java/util/Map.Entry.html)
     - 일단 장르와 플레이를 HashMap안에 넣어주고, 합한 결과가 필요하므로 sumPlay(Map)에 넣어줬다. 그리고 이들을 정렬시켜 준 뒤 비교를 통해 answer에 넣어줬다.
+    - 코드가 더럽지만 일단 푼거에 만족~
